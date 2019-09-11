@@ -1,0 +1,10 @@
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\bin\Debug\jmader1d1.exe.config
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\bin\Debug\jmader1d1.exe
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\bin\Debug\jmader1d1.pdb
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\obj\Debug\jmader1d1.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\obj\Debug\jmader1d1.Properties.Resources.resources
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\obj\Debug\jmader1d1.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\obj\Debug\jmader1d1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\obj\Debug\jmader1d1.exe
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\obj\Debug\jmader1d1.pdb
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1d1\obj\Debug\jmader1d1.jmader1d1.resources
