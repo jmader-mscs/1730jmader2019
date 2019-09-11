@@ -1,0 +1,10 @@
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\bin\Debug\Exercise 1B.exe.config
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\bin\Debug\Exercise 1B.exe
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\bin\Debug\Exercise 1B.pdb
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\obj\Debug\Exercise 1B.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\obj\Debug\Exercise_1B.Form1.resources
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\obj\Debug\Exercise_1B.Properties.Resources.resources
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\obj\Debug\Exercise 1B.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\obj\Debug\Exercise 1B.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\obj\Debug\Exercise 1B.exe
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\Exercise 1B\Exercise 1B\obj\Debug\Exercise 1B.pdb

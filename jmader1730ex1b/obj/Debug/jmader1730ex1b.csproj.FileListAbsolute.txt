@@ -1,0 +1,9 @@
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\bin\Debug\jmader1730ex1b.exe.config
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\bin\Debug\jmader1730ex1b.exe
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\bin\Debug\jmader1730ex1b.pdb
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\obj\Debug\jmader1730ex1b.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\obj\Debug\jmader1730ex1b.Properties.Resources.resources
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\obj\Debug\jmader1730ex1b.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\obj\Debug\jmader1730ex1b.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\obj\Debug\jmader1730ex1b.exe
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1730ex1b\obj\Debug\jmader1730ex1b.pdb
