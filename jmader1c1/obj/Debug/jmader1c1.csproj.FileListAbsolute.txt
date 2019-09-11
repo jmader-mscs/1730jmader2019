@@ -1,0 +1,10 @@
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\bin\Debug\jmader1c1.exe.config
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\bin\Debug\jmader1c1.exe
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\bin\Debug\jmader1c1.pdb
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\obj\Debug\jmader1c1.csprojAssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\obj\Debug\jmader1c1.frmFoodTruck.resources
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\obj\Debug\jmader1c1.Properties.Resources.resources
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\obj\Debug\jmader1c1.csproj.GenerateResource.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\obj\Debug\jmader1c1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\obj\Debug\jmader1c1.exe
+C:\Users\jacob\OneDrive\Documents\1730jmader2019\jmader1c1\obj\Debug\jmader1c1.pdb
